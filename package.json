@@ -9,7 +9,7 @@
   },
   "devDependencies": {
       "mocha": "*"
-    , "expect.js": "*"
+    , "expect.js": ">=0.3.1"
   },
   "scripts": {
     "test": "make test"

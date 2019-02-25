@@ -8,7 +8,7 @@
     "url" : "git://github.com/visionmedia/node-querystring.git"
   },
   "devDependencies": {
-      "mocha": "*"
+      "mocha": ">=6.0.2"
     , "expect.js": "*"
   },
   "scripts": {
